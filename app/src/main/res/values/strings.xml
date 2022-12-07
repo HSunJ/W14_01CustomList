@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">W14_01CustomList</string>
+    <string name="string">item_song_image</string>
+    <string name="item_song_image">string</string>
+</resources>
